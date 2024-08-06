@@ -1,0 +1,29 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # This runs the action every hour
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Update README with Profile Views
+      run: |
+        VIEWS=$(curl -s https://api.countapi.xyz/hit/ministerko/ministerko | jq '.value')
+        sed -i "s/\!\[Profile views\](.*)/\!\[Profile views\](https:\/\/img.shields.io\/badge\/dynamic\/json\?label=Profile%20Views\&query=value\&url=https:\/\/api.countapi.xyz\/hit\/ministerko\/ministerko-$VIEWS)/" README.md
+
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git commit -m "Update profile views"
+        git push
