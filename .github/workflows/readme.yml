@@ -17,8 +17,8 @@ jobs:
 
     - name: Update README with Profile Views
       run: |
-        VIEWS=$(curl -s https://api.countapi.xyz/hit/github.com/ministerko | jq '.value')
-        sed -i "s/\!\[Profile views\](.*)/\!\[Profile views\](https:\/\/img.shields.io\/badge\/dynamic\/json\?label=Profile%20Views\&query=value\&url=https:\/\/api.countapi.xyz\/hit\/github.com\/ministerko-$VIEWS)/" README.md
+        VIEWS=$(curl -s https://api.countapi.xyz/hit/github.com/ministerko/visits | jq '.value')
+        sed -i "s|!\[Profile views\](.*)|!\[Profile views\](https://img.shields.io/badge/dynamic/json?label=Profile%20Views&query=value&url=https://api.countapi.xyz/get/github.com/ministerko/visits&suffix=%20views-$VIEWS)|" README.md
 
     - name: Commit changes
       run: |
