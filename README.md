@@ -9,6 +9,12 @@ I'm **Kelvin Mwaijega**, and I'm on a mission to create groundbreaking solutions
 - **Innovate:** Crafting solutions that make a real difference.
 - **Learn:** Mastering Rust to become a coding legend.
 - **Inspire:** Sharing my journey and inspiring others in the tech world.
+## 💡 Contributions
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=ministerko&theme=gruvbox&hide_border=true&border_radius=11.5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
+</div>
 
 ## 🚀 My GitHub Stats
 
