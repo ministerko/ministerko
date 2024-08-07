@@ -28,7 +28,7 @@ I'm **Kelvin Mwaijega**, and I'm on a mission to create groundbreaking solutions
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ministerko&layout=compact" alt="Kelvin's Top Languages" style="border-radius: 10px; border: 2px solid #ff4500; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
 </div>
 
-![Profile views](https://img.shields.io/endpoint?url=https://profile-view-counter-1qfa75pxq-kelvin-oscar-mwaijegas-projects.vercel.app/)
+<!--![Profile views](https://img.shields.io/endpoint?url=https://profile-view-counter-1qfa75pxq-kelvin-oscar-mwaijegas-projects.vercel.app/)-->
 
 ## 🎨 Special Thanks
 
