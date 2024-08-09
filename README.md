@@ -31,7 +31,10 @@ Let's code the future together! 💪✨
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ministerko&layout=compact" alt="Kelvin's Top Languages" style="border-radius: 10px; border: 2px solid #ff4500; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
 </div>
 
-<!--![Profile views](https://img.shields.io/endpoint?url=https://profile-view-counter-1qfa75pxq-kelvin-oscar-mwaijegas-projects.vercel.app/)-->
+![Profile Views](https://img.shields.io/badge/Profile%20Views-0%20-blue)
+
+
+
 
 ## 🎨 Special Thanks
 
