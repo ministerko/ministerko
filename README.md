@@ -32,6 +32,7 @@ Let's code the future together! 💪✨
 </div>
 
 
+![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue)
 
 
 
