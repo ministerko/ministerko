@@ -1,4 +1,7 @@
 # 💥 **Welcome to My GitHub Profile!** 💥
+<div align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fministerko&count_bg=%23C83D3D&title_bg=%23555555&icon=linux.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false"/></a><br>(daily/Total)
+</div>
 
 ## 🌟 About Me
 Hi, I'm Kelvin Mwaijega! 🌟🚀 Driven by a passion for innovation and community impact, I’m on a mission to create groundbreaking solutions that make a difference. 💡🌍
@@ -32,7 +35,6 @@ Let's code the future together! 💪✨
 </div>
 
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue)
 
 
 
