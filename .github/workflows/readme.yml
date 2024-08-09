@@ -1,29 +1,38 @@
-name: Update README
+name: Update Profile Views
 
 on:
-  schedule:
-    - cron: '0 * * * *'  # This runs the action every hour
   push:
     branches:
       - main
+  page_build:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
 
 jobs:
-  update-readme:
+  update-views:
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
 
-    - name: Update README with Profile Views
+    - name: Increment views counter
       run: |
-        VIEWS=$(curl -s https://api.countapi.xyz/hit/github.com/ministerko/visits | jq '.value')
-        sed -i "s|!\[Profile views\](.*)|!\[Profile views\](https://img.shields.io/badge/dynamic/json?label=Profile%20Views&query=value&url=https://api.countapi.xyz/get/github.com/ministerko/visits&suffix=%20views-$VIEWS)|" README.md
+        echo "Incrementing profile views..."
+        COUNT=$(cat views.txt)
+        COUNT=$((COUNT + 1))
+        echo $COUNT > views.txt
 
-    - name: Commit changes
+    - name: Update README with new view count
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add README.md
-        git commit -m "Update profile views"
+        BADGE_URL="https://img.shields.io/badge/Profile%20Views-$COUNT-blue"
+        sed -i "s|https://img.shields.io/badge/Profile%20Views-[0-9]*-blue|$BADGE_URL|" README.md
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add views.txt README.md
+        git commit -m "Increment profile view counter to $COUNT"
         git push
+
