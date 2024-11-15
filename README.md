@@ -7,19 +7,12 @@
   <br>(daily/Total)
 </div>
 
-## 🌟 About Me
+## 🧠 Who Am I?
 
-<span style="color: #8B4513;">Hi, I'm Kelvin Mwaijega! 🌟🚀 Driven by a passion for innovation and community impact, I’m on a mission to create groundbreaking solutions that make a difference. 💡🌍</span>
+I'm a software developer who enjoys turning ideas into code and solving problems. Whether it’s building emotions, working with FastAPI to create simple APIs, or designing clean UIs in React, I focus on getting things done. I believe in steady progress and doing things my own way, always learning and growing along the way.
 
-<span style="color: #8B4513;">Currently, I’m immersing myself in Rust 🦀, pushing the boundaries of what's possible, and aiming to build exceptional and powerful software. 💻🔥 Join me on this exciting journey as I explore new frontiers in technology and development! 🌈🔧</span>
-
-<span style="color: #8B4513;">Let's code the future together! 💪✨</span>
-
-## 🔥 My Mission
-
-- **Innovate:** Crafting solutions that make a real difference.
-- **Learn:** Mastering Rust to elevate my skills and make an impact. 🚀📚
-- **Inspire:** Sharing my journey and inspiring others in the tech world.
+## 🎸 Fun Facts
+🎶 Plays guitar when not coding. | | 🐼 My spirit animal? Po from Kung Fu Panda. | | 💬 Always up for tech discussions and new challenges!
 
 
 ## 💡 Contributions
