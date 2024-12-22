@@ -9,7 +9,7 @@
 
 ## 🧠 Who Am I?
 
-I'm a software developer who enjoys turning ideas into code and solving problems. Whether it’s building emotions, working with FastAPI to create simple APIs, or designing clean UIs in React, I focus on getting things done. I believe in steady progress and doing things my own way, always learning and growing along the way.
+I'm a software engineer who loves turning ideas into clean, working code. Whether it's building sleek APIs with FastAPI, crafting smooth UIs in React, or solving tricky problems, I’m all about getting things done right. Always learning, always improving, and always coding my way.
 
 ## 🎸 Fun Facts
 🎶 Plays guitar when not coding. | | 🐼 My spirit animal? Po from Kung Fu Panda. | | 💬 Always up for tech discussions and new challenges!
