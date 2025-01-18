@@ -26,8 +26,11 @@ I'm a software engineer who loves turning ideas into clean, working code. Whethe
 ## 🚀 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ministerko&show_icons=true&theme=radical&icon_color=8B4513&title_color=8B4513&bg_color=000000&border_color=8B4513&text_color=8B4513" alt="Kelvin's GitHub stats" style="border-radius: 10px; border: 2px solid #8B4513; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <img src="https://github-readme-stats.vercel.app/api?username=ministerko&show_icons=true&theme=radical&icon_color=8B4513&title_color=8B4513&bg_color=000000&border_color=8B4513&text_color=8B4513&count_private=true" 
+       alt="Kelvin's GitHub stats" 
+       style="border-radius: 10px; border: 2px solid #8B4513; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
 </div>
+
 
 ## 🏆 Top Languages
 
