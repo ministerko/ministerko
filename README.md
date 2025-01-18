@@ -16,12 +16,12 @@ I'm a software engineer who loves turning ideas into clean, working code. Whethe
 
 
 ## 💡 Contributions
-
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=ministerko&theme=gruvbox&hide_border=true&border_radius=11.5&date_format=j%20M%5B%20Y%5D&fire=8B4513&ring=8B4513&background=000000&stroke=8B4513"/>
+    <img src="https://streak-stats.demolab.com?user=ministerko&theme=gruvbox&hide_border=true&border_radius=11.5&date_format=j%20M%5B%20Y%5D&fire=8B4513&ring=8B4513&background=000000&stroke=8B4513&include_all_commits=true"/>
   </a>
 </div>
+
 
 ## 🚀 My GitHub Stats
 
