@@ -1,11 +1,6 @@
 <div align="center"><h1 style="font-weight:bold; color: #8B4513;">💥 Welcome to My GitHub Profile! 💥</h1></div>
 
-<div align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmwaijega&count_bg=%238B4513&title_bg=%23000000&icon=linux.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false"/>
-  </a>
-  <br>(daily/Total)
-</div>
+
 
 ## 🧠 Who Am I?
 
