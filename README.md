@@ -9,15 +9,6 @@ I'm a software engineer who loves turning ideas into clean, working code. Whethe
 ## 🎸 Fun Facts
 🎶 Plays guitar when not coding. | | 🐼 My spirit animal? Po from Kung Fu Panda. | | 💬 Always up for tech discussions and new challenges!
 
-
-## 💡 Contributions
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=mwaijega&theme=gruvbox&hide_border=true&border_radius=11.5&date_format=j%20M%5B%20Y%5D&fire=8B4513&ring=8B4513&background=000000&stroke=8B4513&include_all_commits=true"/>
-  </a>
-</div>
-
-
 ## 🚀 My GitHub Stats
 
 <div align="center">
